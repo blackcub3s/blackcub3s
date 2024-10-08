@@ -18,15 +18,20 @@ Here are some ideas to get you started:
 
 # 👨‍💻 Welcome to My GitHub Profile!
 
-Hi! I'm a software developer (MSc with a final thesis in data science + a degree in web development applications) with experience across several academic and professional domains:
+# Hello!
 
-- ⚙️ **Back-End**: Recently acquired knowledge in SpringBoot and MySQL as databases, both during my CFGS studies and through self-learning.
-- 📊 **Data Science & Machine Learning**: Hands-on experience from my MSc degree and professional projects.
-- 🎨 **Front-End**: Learned during my Software Development degree (CFGS DAW - Web Application Development, currently in my final year).
-- 🧠 **Algorithms and Programming Competitions**: Achieved good results in the regional "ProgramaMe" competition and during the first-year programming course at UPC.
-- 📚 **LaTeX Projects**: Extensive use of LaTeX, especially for high-quality typographic documents, such as my Master's thesis.
+I'm a software developer with a Master’s degree (MSc) focused on data science, as well as a degree in web development applications. I have experience across various academic domains that I highlight trhoughout my programming projects in this repository, which mainly are:
 
-Below, you'll find a categorized list of my projects with details on the area, programming languages, and description.
+- ⚙️ **Back-End Development:** Recently acquired expertise in Spring Boot and MySQL, gained through both my CFGS studies and self-directed learning.
+- 📊 **Data Science & Machine Learning:** Practical experience obtained during my MSc program and through professional projects.
+- 🎨 **Front-End Development:** Knowledge gained during my Software Development degree (CFGS DAW - Web Application Development), where I am currently in my final year.
+- 🧠 **Algorithms and Programming Competitions:** Achieved notable results in the regional "ProgramaMe" competition, as well as in the first-year programming course at UPC.
+- 📚 **LaTeX Projects:** Extensive experience with LaTeX, particularly for producing high-quality typographic documents, including my Master's thesis.
+
+Below, you will find a categorized list of my projects, detailing the respective areas each project belongs to, used programming languages and libraries (if any, in a small icon), and descriptions of the projects. 
+
+⚠️ *Please, note that each project generally has a readme.md but not all of them are in english (many of them are in Spanish or Catalan)*:
+
 
 ## 🔍 Projects Overview
 
