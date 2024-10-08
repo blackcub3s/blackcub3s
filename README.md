@@ -16,29 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
+# 👨‍💻 Welcome to My GitHub Profile!
 
-
-# Welcome to My GitHub Profile!
-
-<h1 id="welcomeText"></h1>
-
-<script>
-    const text = "Welcome to My GitHub Profile!";
-    let index = 0;
-
-    function typeText() {
-        if (index < text.length) {
-            document.getElementById("welcomeText").innerHTML += text.charAt(index);
-            index++;
-            setTimeout(typeText, 100); // Adjust the speed here (100ms)
-        }
-    }
-
-    typeText();
-</script>
-
-
-I'm a software developer with a Master’s degree (MSc) focused on data science, as well as a degree in web development applications. I have experience across various academic domains that I highlight trhoughout my programming projects in this repository, which mainly are:
+I'm a software developer with a Master’s degree (MSc) focused on data science, coming from a career change. I am currently finishing my web development applications degree. I have experience across various academic domains that I highlight throughout my programming projects in this repository, which mainly belone to one or several of these areas:
 
 - ⚙️ **Back-End Development:** Recently acquired expertise in Spring Boot and MySQL, gained through both my CFGS studies and self-directed learning.
 - 📊 **Data Science & Machine Learning:** Practical experience obtained during my MSc program and through professional projects.
