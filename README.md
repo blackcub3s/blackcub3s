@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **blackcub3s/blackcub3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,17 +20,16 @@ Here are some ideas to get you started:
 
 Hi! I'm a sofware developer (MSc with a final thesis in data science + a degree in web development applications) with academic experience in several academic domains:
 
-⚙️ *Back-End*: Experience with Java SpringBoot and MySQL as databases, acquired both during my CFGS studies and through self-learning.
-📊 *Data Science & Machine Learning*:    hands on experience in a MSc degree I got several years ago, by an engineering degree programming course I took on 2015 and on professional projects.
-🎨 *Front-End*: Learned during my Software Development degree (CFGS DAW - Web Application Development, currently in my final year). 
-🧠 *Algorithms and/or Programming Competitions*: I got a good result in the programming competitions for CFGS students and also in the first year Computer Science programming course.
-📚 *LaTeX Projects* and *MarkDown*: LaTeX is a language that allows you to write high tipograpic quality documents in no time (I wrote my Master's thesis on that), and some of my github repos allow LaTeX syntax within the MarkDown readme.md files.
+- ⚙️ *Back-End*: Experience with Java SpringBoot and MySQL as databases, acquired both during my CFGS studies and through self-learning.
+- 📊 *Data Science & Machine Learning*:    hands on experience in a MSc degree I got several years ago, by an engineering degree programming course I took on 2015 and on professional projects.
+- 🎨 *Front-End*: Learned during my Software Development degree (CFGS DAW - Web Application Development, currently in my final year). 
+- 🧠 *Algorithms and/or Programming Competitions*: I got a good result in the programming competitions for CFGS students and also in the first year Computer Science programming course.
+- 📚 *LaTeX Projects* and *MarkDown*: LaTeX is a language that allows you to write high tipograpic quality documents in no time (I wrote my Master's thesis on that), and some of my github repos allow LaTeX syntax within the MarkDown readme.md files.
 
 Below, you'll find each of the projects of my github repo categorized in each of these domains and you can go see each project, which generally is detailed in the Readme.md:
 
 ## 🔍 Projects
 
-# 👨‍💻 Welcome to My GitHub Profile!
 
 Hi! I'm a passionate developer with experience in various areas, including Data Science, Front-End, Back-End, LaTeX projects, and competitive programming. Below is a table showcasing my projects across these domains.
 
