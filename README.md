@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # 👨‍💻 Welcome to My GitHub Profile!
 
-I'm a software developer with a Master’s degree (MSc) focused on data science, coming from a career change. I am currently finishing my web development applications degree. I have experience across various academic domains that I highlight throughout my programming projects in this repository, which mainly belone to one or several of these areas:
+I'm a software developer with a Master’s degree (MSc) focused on data science, coming from a career change. I am currently finishing my web development applications degree (DAW) and I have experience across various academic domains, which mainly belong to one or several of these areas:
 
 - ⚙️ **Back-End Development:** Recently acquired expertise in Spring Boot and MySQL, gained through both my CFGS studies and self-directed learning.
 - 📊 **Data Science & Machine Learning:** Practical experience obtained during my MSc program and through professional projects.
@@ -26,9 +26,9 @@ I'm a software developer with a Master’s degree (MSc) focused on data science,
 - 🧠 **Algorithms and Programming Competitions:** Achieved notable results in the regional "ProgramaMe" competition, as well as in the first-year programming course at UPC.
 - 📚 **LaTeX Projects:** Extensive experience with LaTeX, particularly for producing high-quality typographic documents, including my Master's thesis.
 
-Below, you will find a categorized list of my projects, detailing the respective areas each project belongs to, used programming languages and libraries (if any, in a small icon), and descriptions of the projects. 
+Below, you will find a categorized list of all the projects in this repository, detailing the respective areas each project belongs to, programming languages and libraries (if any, in a small icon) that have been used, and finally, project descriptions. 
 
-⚠️ *Please, note that each project generally has a readme.md but not all of them are in english (many of them are in Spanish or Catalan)*:
+⚠️ *Please, note that each project generally has a `README.md` file but not all of them are in english (many of them are in Spanish or Catalan, and variable names and commments tend not to be in english)*:
 
 
 ## 🔍 Projects Overview
