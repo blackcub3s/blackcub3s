@@ -16,9 +16,27 @@ Here are some ideas to get you started:
 -->
 
 
-# 👨‍💻 Welcome to My GitHub Profile!
 
-# Hello!
+
+# Welcome to My GitHub Profile!
+
+<h1 id="welcomeText"></h1>
+
+<script>
+    const text = "Welcome to My GitHub Profile!";
+    let index = 0;
+
+    function typeText() {
+        if (index < text.length) {
+            document.getElementById("welcomeText").innerHTML += text.charAt(index);
+            index++;
+            setTimeout(typeText, 100); // Adjust the speed here (100ms)
+        }
+    }
+
+    typeText();
+</script>
+
 
 I'm a software developer with a Master’s degree (MSc) focused on data science, as well as a degree in web development applications. I have experience across various academic domains that I highlight trhoughout my programming projects in this repository, which mainly are:
 
