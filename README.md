@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # 👨‍💻 Welcome to My GitHub Profile!
 
-I'm a software developer with a Master’s degree (MSc) focused on data science, coming from a career change. I am currently finishing my web development applications degree (DAW) and I have experience across various academic domains, which mainly belong to one or several of these areas:
+I'm a software developer with a Master’s degree (MSc) focused on data science, coming from a career change. I am currently finishing my web development applications degree (DAW) and I have academic experience and/or professional experience across various programming areas domains, which mainly belong to one or several of these areas:
 
 - ⚙️ **Back-End Development:** Recently acquired expertise in Spring Boot and MySQL, gained through both my CFGS studies and self-directed learning.
 - 📊 **Data Science & Machine Learning:** Practical experience obtained during my MSc program and through professional projects.
