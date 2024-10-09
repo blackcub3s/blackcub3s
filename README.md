@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 
 # 👨‍💻 Welcome to My GitHub Profile!
 
-I'm a software developer with a Master’s degree (MSc) with a final thesis in Machine learning and a Bachelor's Degree (BA), transtitioning to IT. I am currently finishing my web development applications degree (DAW), and I have academic and/or professional experience across various programming domains. This experience is showcased in the different projects shown in this github repository, which mainly belong to the following areas:
+I am a softwer developer currently finishing my web development applications degree (DAW) with a Master’s degree (MSc). After I finished my MSc, where I Python and Machine learning models I grew a lot of interest towards computer science. AI have academic and/or professional experience across various programming domains, and this github account is all about showcasing this experience in different projects, which mainly belong to the following areas and make use of different programming languages I have been learning:
 
-- ⚙️ **Back-End Development:**  Spring Boot & MySQL
-- 📊 **Data Science & Machine Learning:** Python 3, and its scientific libraries (sklearn, numpy, matplotlib, scypy), webscrapping (selenium) and Object Character Recognition (PIL).
+- ⚙️ **Back-End Development:**  Spring Boot (JPA and Hibernate) and MySQL.
+- 📊 **Data Science & Machine Learning:** Python 3 and its scientific libraries (sklearn, numpy, scypy, matplotlib and Seaborn), webscrapping (selenium), Object Character Recognition (PIL) and network graphs (networkx).
 - 🎨 **Front-End Development:** HTML, CSS, Javascript, and one framework (Bootstrap).
 - 🧠 **Algorithms and Programming Competitions:** I achieved notable results in the regional "ProgramaMe" 2024 Java programming competition in Valencia, as well as in the first-year programming C++ subject course at UPC in 2019.
 - 🛠️**DevOps**: Docker, Azure.
 - 📚 **LaTeX Projects:** Extensive experience with LaTeX, particularly for producing high-quality typographic documents, including my Master's thesis.
 
-Below, you will find a table with all the projects in my github account, each and one of them cathegorized to one of the aforementioned six areas. This list includes links to the repositories of each project, usually accompanied by a detailed README.md file that explains its intricacies and I recommend the reader to dive in. In some cases, you will also find deployment links on GitHub Pages (these are indicated by the clickable icon: <img src="https://img.icons8.com/material-outlined/24/000000/internet.png" alt="deployed" width="20"/>). Additionally, the list also features clearly the programming languages used in each repository and libraries used, if any (represented by smaller icons, if applicable). Finally you'll find a small description of each project.
+Below, you will find a table with all the projects in my github account, each and one of them cathegorized to one of the aforementioned six areas and explicitly state which programming languages and libraries I have used (libraries appear as smaller icons, contiguous to the programming language they belong to). The table includes links to the repositories of each project, which is usually accompanied by a detailed README.md file that explains its intricacies (I thorougly recommend the reader to dive in in the file). In some cases, you will also find deployment links on GitHub Pages (these are flagged via the clickable icon: <img src="https://img.icons8.com/material-outlined/24/000000/internet.png" alt="deployed" width="20"/>). Finally you'll find a small description of each project.
 
 ⚠️ *Please, note that `README.md` filed are not always in english (many of them are in Spanish or Catalan, and variable names and commments tend not to be in english)* ⚠️
 
