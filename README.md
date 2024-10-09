@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 # 👨‍💻 Welcome to My GitHub Profile!
 
-I am a softwer developer currently finishing my web development applications degree (DAW) with a Master’s degree (MSc). After I finished my MSc, where I Python and Machine learning models I grew a lot of interest towards computer science. AI have academic and/or professional experience across various programming domains, and this github account is all about showcasing this experience in different projects, which mainly belong to the following areas and make use of different programming languages I have been learning:
+I am a software developer with a Master’s degree (MSc). After I finished my MSc, where I learnt Python and Machine learning models I grew a lot of interest towards computer science and I decided to pursue a formal education on it by doing some subjects of the computer science Bachelors Degree. Currently I am finishing my web development applications degree (CFGS DAW), as a faster road track to IT.
+
+As a result I have academic and/or professional experience (Yes, I made use of automation in previous jobs) across various programming domains, and this GitHub account is all about showcasing this experience in different projects and programming languages, which mainly belong to the following areas and feature the following languages nad libraries:
 
 - ⚙️ **Back-End Development:**  Spring Boot (JPA and Hibernate) and MySQL.
 - 📊 **Data Science & Machine Learning:** Python 3 and its scientific libraries (sklearn, numpy, scypy, matplotlib and Seaborn), webscrapping (selenium), Object Character Recognition (PIL) and network graphs (networkx).
