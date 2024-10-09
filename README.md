@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 # 👨‍💻 Welcome to My GitHub Profile!
 
-I'm a software developer with a Master’s degree (MSc) focused on data science, coming from a career change. I am currently finishing my web development applications degree (DAW) and I have academic experience and/or professional experience across various programming areas domains, which mainly belong to one or several of these areas:
+I'm a software developer with a Master’s degree (MSc) transitioning to IT. I am currently finishing my web development applications degree (DAW) and I have academic experience and/or professional experience across various programming domains, which mainly belong to one or several of these areas:
 
-- ⚙️ **Back-End Development:** Recently acquired expertise in Spring Boot and MySQL, gained through both my CFGS studies and self-directed learning.
-- 📊 **Data Science & Machine Learning:** Practical experience obtained during my MSc program and through professional projects.
-- 🎨 **Front-End Development:** Knowledge gained during my Software Development degree (CFGS DAW - Web Application Development), where I am currently in my final year.
-- 🧠 **Algorithms and Programming Competitions:** Achieved notable results in the regional "ProgramaMe" competition, as well as in the first-year programming course at UPC.
+- ⚙️ **Back-End Development:**  Spring Boot & MySQL (gained through the DAW degree and self-directed learning)
+- 📊 **Data Science & Machine Learning:** Practical experience in Python and scientific libraries (obtained during my MSc program and through professional projects).
+- 🎨 **Front-End Development:** HTML, CSS and Javascript (learnt int CFGS DAW - Web Application Development).
+- 🧠 **Algorithms and Programming Competitions:** I achieved notable results in the regional "ProgramaMe" 2024 competition in Valencia, as well as in the first-year programming course at UPC in 2019.
 - 📚 **LaTeX Projects:** Extensive experience with LaTeX, particularly for producing high-quality typographic documents, including my Master's thesis.
 
 Below, you will find a categorized list of all the projects in this repository, detailing the respective areas each project belongs to, programming languages and libraries (if any, in a small icon) that have been used, and finally, project descriptions. 
