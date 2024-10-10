@@ -28,7 +28,7 @@ In this GitHub profile I showcase my academic and professional experience across
 - 🧠 **Algorithms and Programming Competitions:** I achieved notable results in the regional "ProgramaMe" 2024 Java programming competition in Valencia, as well as in the first-year programming C++ subject course at UPC in 2019.
 - 🛠️**DevOps**: Docker, Azure.
 - 📚 **LaTeX Projects:** Extensive experience with LaTeX, particularly for producing high-quality typographic documents, including my Master's thesis.
-- 📐 Mathematics: A few repositories focus on solving A-level (advanced high school) problems in geometry, calculus, and numerical series. These are more closely related to mathematics than programming, although both fields often overlap. The relevant repositories are clearly specified.
+- 📐 **Mathematics**: A few repositories focus on solving A-level (advanced high school) problems in geometry, calculus, and numerical series. These are more closely related to mathematics than programming, although both fields often overlap. The relevant repositories are clearly specified.
 
 Below, you will find a table with all these projects, each and one of them cathegorized to one of the aforementioned six areas, specifying programming languages and libraries used[^1] and featuring a small description of it. The table also includes links to the repositories of each project, which is usually accompanied by a detailed `README.md` file that explains its intricacies (I thorougly recommend the reader to dive in this file). In some cases, you will also find deployment links on GitHub Pages (flagged via the clickable icon: <img src="https://img.icons8.com/material-outlined/24/000000/internet.png" alt="deployed" width="20"/>).
 
