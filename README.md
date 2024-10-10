@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 In my Master's degree I learnt Python and Machine learning models. I grew a lot of interest towards computer science and I decided to pursue a formal education in it by doing some subjects of the computer science Bachelors Degree in Universitat Politècnica de Catalunya. Currently I am finishing my web development applications degree ("Ciclo Formativo de Grado Superior" in "DAW"), as a faster road track to IT.
 
-In this GitHub profile I showcase my academic and professional experience across various programming domains, which mainly belong to the following areas and feature the following languages:
+In this GitHub profile I showcase my academic and professional experience across various programming domains, which mainly belong to the following categories and feature the following languages:
 
 - ⚙️ **Back-End Development:**  Spring Boot (JPA and Hibernate) and MySQL.
 - 📊 **Data Science & Machine Learning:** Python 3 and its scientific libraries (sklearn, numpy, scypy, matplotlib and Seaborn), webscrapping (selenium), Object Character Recognition (PIL) and network graphs (networkx).
@@ -30,7 +30,7 @@ In this GitHub profile I showcase my academic and professional experience across
 - 📚 **LaTeX Projects:** Extensive experience with LaTeX, particularly for producing high-quality typographic documents, including my Master's thesis.
 - 📐 **Mathematics**: A few repositories focus on solving A-level (advanced high school) problems in geometry, calculus, and numerical series. These are more closely related to mathematics than programming, although both fields often overlap. The relevant repositories are clearly specified.
 
-Below, you will find a table with all these projects, each and one of them cathegorized to one of the aforementioned six areas, specifying programming languages and libraries used[^1] and featuring a small description of it. The table also includes links to the repositories of each project, which is usually accompanied by a detailed `README.md` file that explains its intricacies (I thorougly recommend the reader to dive in this file). In some cases, you will also find deployment links on GitHub Pages (flagged via the clickable icon: <img src="https://img.icons8.com/material-outlined/24/000000/internet.png" alt="deployed" width="20"/>).
+Below, you will find a table with all these projects, each and one of them cathegorized to one of the aforementioned six areas, specifying programming languages and libraries used[^1] and featuring a small description of it. The table also includes links to the repositories of each project, which is usually accompanied by a detailed `README.md` file that explains its intricacies (I thorougly recommend the reader to dive in this file). In some cases, you will also find deployment links on GitHub Pages (flagged via the clickable icon: <span title="click me to see deploy"> <img src="https://img.icons8.com/material-outlined/24/000000/internet.png" alt="deployed" width="20"/></span>).
 
 There are a couple of projects I got paid for, the ones labeled in the description as: [**PROFESSIONAL PROJECT**]
 
@@ -39,7 +39,7 @@ There are a couple of projects I got paid for, the ones labeled in the descripti
 
 ## 🔍 Projects Overview
 
-| Project    | Area   | Programming Languages   | Description       |
+| Project    | Category   | Programming Languages   | Description       |
 |---------------------------------------------------------------|-------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | [miApp](https://github.com/blackcub3s/miApp)                 | <span title="Back-End">⚙️</span><span title="Front-End">🎨</span>   | <span title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" /></span> <span title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" /></span> <span title="HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30" /></span> | Backend project with Springboot and front-end using vanilla JavaScript. API REST communication inspired by Netflix.  |
 | [ProgramaMe](https://github.com/blackcub3s/ProgramaMe)       | <span title="Algorithms">🧠</span>           | <span title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" /></span> | Problems solved in preparation for the ProgramaMe competition. Also serves as a manual for future participants.      |
