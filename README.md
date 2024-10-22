@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-# 👨‍💻 Welcome to My GitHub Profile!
+# 👨‍💻 Welcome to My GitHub programming portfolio!
 
-I am a software developer currently finishing my web development applications degree ("Ciclo Formativo de Grado Superior" in "DAW") and this is my programming portfolio where I showcase all I've learnt throughout the years: during previous academic endevaours (a Masters degree with a final thesis in Python and machine leraning, an some subjects of a Computer Science degree at UPC) and through self-taught learning. The projects shown in this GitHub account are projects I've made entirely, either in academic or professional settings. These projects span across different programming domains, which mainly belong to the following categories and feature the following languages:
+I am a software developer currently finishing my web development applications degree ("Ciclo Formativo de Grado Superior" in "DAW"). Here I showcase all I've learnt throughout the years, during previous academic endevaours (MSc with a final thesis in computational neuroscience and machine learning models, and some subjects of a Computer Science degree ), through self-taught learning and with my current studies. The projects hereby shown are projects I've made entirely, either in academic or professional settings. These projects span across different programming domains and belong to the following categories and feature the following languages, namely:
 
 - ⚙️ **Back-End Development:**  Spring Boot (JPA and Hibernate) and MySQL.
 - 📊 **Data Science & Machine Learning:** Python 3 and its scientific libraries (sklearn, numpy, scypy, matplotlib and Seaborn), webscrapping (selenium), Object Character Recognition (PIL) and network graphs (networkx).
@@ -28,7 +28,7 @@ I am a software developer currently finishing my web development applications de
 - 📚 **LaTeX Projects:** Extensive experience with LaTeX, particularly for producing high-quality typographic documents, including my Master's thesis.
 - 📐 **Mathematics**: A few repositories focus on solving A-level (advanced high school) problems in geometry, calculus, and numerical series. These are more closely related to mathematics than programming, although both fields often overlap. The relevant repositories are clearly specified.
 
-Below, you will find a table with all these projects, each and one of them cathegorized to one of the aforementioned six areas, specifying programming languages and libraries used[^1] and featuring a small description. The table also includes links to the repositories of each project, which are usually served with a detailed `README.md` file that explains their intricacies (I recommend the reader to thorougly dive into this file of each project). In some cases, you will also find deployment links on GitHub Pages (flagged via the clickable icon: <img src="https://img.icons8.com/material-outlined/24/000000/internet.png" alt="deployed" width="20"/>).
+Below, you will find a table with all these projects, each and one of them categorized to one of the aforementioned six areas, specifying programming languages and libraries used[^1] and featuring a small description. The table also includes links to the repositories of each project, which are usually served with a detailed `README.md` file that explains their intricacies (I recommend the reader to thorougly dive into this file of each project). In some cases, you will also find deployment links on GitHub Pages (flagged via the clickable icon: <img src="https://img.icons8.com/material-outlined/24/000000/internet.png" alt="deployed" width="20"/>).
 
 There are a couple of projects I got paid for, the ones labeled in the description with the tag: [**PROFESSIONAL PROJECT**]
 
